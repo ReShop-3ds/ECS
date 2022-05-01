@@ -1,0 +1,2 @@
+RewriteRule ^ecs/services/ECommerceSOAP$ account.php
+php_value display_errors 1
